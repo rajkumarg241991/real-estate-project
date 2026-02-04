@@ -9,29 +9,6 @@ The work is organised into three independent exercises, each focusing on a diffe
 
 ---
 
-## 📂 Project Structure
-
-```
-├── Exercise_1_USTradeflow/
-│   ├── notebooks / scripts
-│   ├── data
-│   └── outputs
-│
-├── Exercise_2_WebScraping/
-│   ├── scraping scripts
-│   ├── raw data
-│   └── cleaned outputs
-│
-├── Exercise_3_BusinessTenants/
-│   ├── data processing scripts
-│   ├── datasets
-│   └── results
-│
-└── README.md
-```
-
----
-
 ## 🛠️ Technologies Used
 
 * **Python** (data processing & scripting)
@@ -61,30 +38,6 @@ The work is organised into three independent exercises, each focusing on a diffe
 * Analysed business tenant‑related datasets
 * Applied data cleaning and transformation logic
 * Produced meaningful outputs for downstream use
-
----
-
-## ▶️ How to Run the Project
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-```
-
-2. Navigate to the required exercise folder:
-
-```bash
-cd Exercise_1_USTradeflow
-```
-
-3. Install dependencies (if required):
-
-```bash
-pip install -r requirements.txt
-```
-
-4. Run the notebooks or scripts as needed.
 
 ---
 
